@@ -1,0 +1,6 @@
+record_id,name,email,amount,date,status
+TXN-1001,Aarav Sharma,aarav@example.com,1250.50,2026-09-01,Completed
+TXN-1002,Meera Verma,meera@example.com,799,2026-09-02,Pending
+TXN-1003,Kabir Singh,not-an-email,-25,2026-09-03,Review
+TXN-1003,Riya Das,riya@example.com,unknown,31/31/2026,Pending
+TXN-1005,,dev@example.com,410,2026-09-05,Completed
